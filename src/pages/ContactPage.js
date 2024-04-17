@@ -8,9 +8,9 @@ import emailjs from '@emailjs/browser'
 export default function Contact() {
 
   const sendMail = {
-    serviceId:'service_z6uvkls',
-    templateId:'template_1dxdr3n',
-    public_key:'gQTNWufC3deNs1ekH'
+    serviceId:'service_ahuq9iq',
+    templateId:'template_8ik209d',
+    public_key:'vrhLFfhlGifjvjNwx'
   }
 
   const sendEmail = (e) => {
