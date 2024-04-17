@@ -310,7 +310,7 @@ export const footerItem = [
 export const footerContact = [
   {
     icon: <i className="fa fa-map-marker-alt me-3"></i>,
-    name: "49/29 Petchburi Road, Petchburi 15 Phayathai Ratchtewee, Bangkok, 10400, Thailand",
+    name: "49/29 Phetchaburi Road, Phetchaburi 15 Phayathai Ratchtewee, Bangkok, 10400, Thailand",
   },
   {
     icon: <i className="fa fa-phone-alt me-3"></i>,
