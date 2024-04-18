@@ -35,7 +35,7 @@ export default function Footer() {
               ))}
               <div className="d-flex pt-2">
                 {socialIcons.slice(0, 4).map((val, social) => (
-                  <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/GrandWatergateHotel/" target="_blank" key={social}>
+                  <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/GrandWatergateHotel/" target="_blank" key={social} rel="noreferrer">
                     {val.icon}
                   </a>
                 ))}
