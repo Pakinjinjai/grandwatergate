@@ -267,13 +267,13 @@ export const footerItem = [
     header: "Company",
     UnitItem: [
       {
-        name: <Link className="btn btn-link" to="/about">About</Link>
+        name: <a className="btn btn-link" href="/about">About</a>
       },
       {
-        name: <Link className="btn btn-link" to="/contact">Contact</Link>
+        name: <a className="btn btn-link" href="/contact">Contact</a>
       },
       {
-        name: <Link className="btn btn-link" to="/booking">Booking</Link>
+        name: <a className="btn btn-link" href="/booking">Booking</a>
       },
       // {
       //   name: "Privacy Policy",
